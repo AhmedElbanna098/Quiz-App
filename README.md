@@ -1,6 +1,7 @@
 "# Quiz-App" 
-Key Features:
 
+
+Key Features:
 User-friendly interface for easy navigation and interaction.
 Customizable quiz categories and difficulty levels.
 Randomized question generation for each quiz attempt.
